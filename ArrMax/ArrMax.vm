@@ -1,0 +1,11 @@
+// Contains a function ArrMax.arrMax that finds and returns the largest element in the array a of length b.
+// a & b are both supplied as arguments
+
+function ArrMax.arrMax 2 // m n
+    push argument 0
+    pop pointer 1 // this saves address aof array
+    push that 0 // this returns thhebvalue of 1st element of array
+    pop temp 0 // this will store max value
+
+    push constant 1 //
+    wt
